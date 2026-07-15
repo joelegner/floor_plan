@@ -4,7 +4,8 @@
 
 Welcome to `floor_plan`! I am Joe Legner. The point of this repository is to explore what happens when we follow this dictum to the greatest extent:
 
-> GALL'S LAW: Every complex system that works evolved from a simpler system that worked.
+> [!IMPORTANT]
+> This project shall follow **Gall's Law**, which states, "Every complex system that works evolved from a simpler system that worked."
 
 ## Current Version 1 (Released)
 
