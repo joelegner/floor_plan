@@ -24,7 +24,10 @@ Wednesday, July 15, 2026.
 
 _How is Version 2 documented?_
 
-There is a tag called "Version 2".
+```bash
+git tag -a v2.0 -m "Version 2"
+git push origin --tags
+```
 
 _What is the function of Version 2?_
 
@@ -33,9 +36,9 @@ The function of Version 1 is to generate a file called `floor_plan.pdf` at the c
 _How do I use Version 2?_
 
 ```bash
-% git clone https://github.com/joelegner/floor_plan/
-% cd floor_plan
-% make open
+git clone https://github.com/joelegner/floor_plan/
+cd floor_plan
+make open
 # Lots of messages
 # The floor_plan.pdf file opens
 ```
@@ -62,15 +65,15 @@ _How do I install Version 1?_
 At a command terminal:
 
 ```bash
-% git clone https://github.com/joelegner/floor_plan/
-% cd floor_plan
+git clone https://github.com/joelegner/floor_plan/
+cd floor_plan
 ```
 _How do I run Version 1?_
 
 At a command terminal:
 
 ```bash
-% make open
+make open
 ```
 
 ## Previous Version 1 (Superseded)
@@ -86,8 +89,8 @@ There is a tag called "Version 1".
 _How did Version 1 get tagged like this?_
 
 ```bash
-% git tag -a v1.0 -m "Version 1"
-% git push origin --tags
+git tag -a v1.0 -m "Version 1"
+git push origin --tags
 ```
 
 _What is the function of Version 1?_
@@ -100,9 +103,9 @@ The function of Version 1 is to generate a file called `floor_plan.pdf` at the c
 _What does this look like in practice?_
 
 ```bash
-% git clone https://github.com/joelegner/floor_plan/
-% cd floor_plan
-% make open
+git clone https://github.com/joelegner/floor_plan/
+cd floor_plan
+make open
 # Lots of messages
 # The floor_plan.pdf file opens
 ```
@@ -129,18 +132,18 @@ _How do I install Version 1?_
 At a command terminal:
 
 ```bash
-% git clone https://github.com/joelegner/floor_plan/
-% cd floor_plan
+git clone https://github.com/joelegner/floor_plan/
+cd floor_plan
 ```
 _How do I run Version 1?_
 
 At a command terminal:
 
 ```bash
-% make open
+make open
 ```
 
-## Version 0 (Superseded)
+## Previous Version 0 (Superseded)
 
 _When was Version 0 released?_
 
@@ -167,4 +170,5 @@ Version 0 worked. That means it was able to be extended, so it became the workin
 
 # Notes on Tikz Code
 
-The floor plan is scaled at 1/4" = 1'-0", drawn on an 8.5in x 11in sheet. Every TikZ coordinate below is in real page inches, so the Version 1+ drawing reproduces the Version 0 hand sketch's measurements exactly as taken with a ruler.
+1. The floor plan is scaled at 1/4" = 1'-0", drawn on an 8.5in x 11in sheet.
+2. Every TikZ coordinate below is in real page inches, so the Version 1+ drawing reproduces the Version 0 hand sketch's measurements exactly as taken with a ruler.
