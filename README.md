@@ -15,11 +15,13 @@ _When was Version 0 superseded?_
 
 Wednesday, July 15, 2026.
 
-_What is Version 0?_
+_What was Version 0?_
 
 Version 0 of the `floor_plan` project was a paper floor plan drawn by Joe Legner on 1/8-inch grid graph paper at a scale of 1/4"=1'-0". This has been superseded by Version 1. 
 
-Version 0 worked, and it became the working system to start the wheel of Gall's Law rolling. The next thing to be done was to write Version 1 on the computer. That's where we turn our attention next in this exciting `README.md` file. 
+_What good was Version 0?_
+
+Version 0 worked. That means it was able to be extended, so it became the working system to start the wheel of Gall's Law rolling. The next thing to be done was to write Version 1 on the computer. That's where we turn our attention next in this exciting `README.md` file.
 
 ## Current Version 1 (Released)
 
