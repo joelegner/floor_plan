@@ -104,5 +104,4 @@ Generate the `floor_plan.tex` file from a new `floor_plan.pl` Prolog source file
 _What are the goals for Version 2?_
 
 1. Update the `Makefile` to work with `floor_plan.pl`.
-2. Fix the word "GARAGE" printing off the page.
-3. Move the North Arrow to some greener pasture.
+2. Move the North Arrow to some greener pasture.
