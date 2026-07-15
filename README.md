@@ -25,7 +25,7 @@ Wednesday, July 15, 2026.
 _How is Version 2 documented?_
 
 ```bash
-git tag -a v2.0 -m "Version 2"
+git tag -a v2.1 -m "Version 2.1"
 git push origin --tags
 ```
 
