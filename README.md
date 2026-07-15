@@ -7,13 +7,28 @@ Welcome to `floor_plan`! I am Joe Legner. This project is an experiment to see w
 
 ## Version 0 (Superseded)
 
-Version 0 of the floor_plan project was a paper floor plan drawn by Joe Legner on 1/8-inch grid graph paper at a scale of 1/4"=1'-0". This has been superseded by Version 1. 
+_When was Version 0 released?_
+
+Wednesday, July 15, 2026.
+
+_When was Version 0 superseded?_
+
+Wednesday, July 15, 2026.
+
+_What is Version 0?_
+
+Version 0 of the `floor_plan` project was a paper floor plan drawn by Joe Legner on 1/8-inch grid graph paper at a scale of 1/4"=1'-0". This has been superseded by Version 1. 
 
 Version 0 worked, and it became the working system to start the wheel of Gall's Law rolling. The next thing to be done was to write Version 1 on the computer. That's where we turn our attention next in this exciting `README.md` file. 
 
 ## Current Version 1 (Released)
 
+_When was Version 1 released?_
+
+Wednesday, July 15, 2026.
+
 _How is Version 1 documented?_
+
 There is a tag called "Version 1".
 
 _How did Version 1 get tagged like this?_
@@ -72,9 +87,6 @@ At a command terminal:
 ```bash
 % make open
 ```
-
-_When was Version 1 released?_
-Wednesday, July 15, 2026 at 10:55 AM.
 
 ## Future Version 2 (Planned)
 
