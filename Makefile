@@ -1,5 +1,5 @@
-SRC := floorplan.tex
-PDF := floorplan.pdf
+SRC := floor_plan.tex
+PDF := floor_plan.pdf
 
 .PHONY: all clean open
 

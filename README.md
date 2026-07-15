@@ -1,6 +1,6 @@
 # floor_plan
 
-Welcome to `floor_plan`! I am Joe Legner. This project is an experiment to see what happens when we start with a project that "works" and evolve it by following Gall's Law. The software is sort of incidental to this experiment. But it still needs a purpose to exist. The purpose of the software is to generate a file called `floorplan.pdf`. The PDF is a plan view of my driveway with three tables set up for a garage sale we are planning. 
+Welcome to `floor_plan`! I am Joe Legner. This project is an experiment to see what happens when we start with a project that "works" and evolve it by following Gall's Law. The software is sort of incidental to this experiment. But it still needs a purpose to exist. The purpose of the software is to generate a file called `floor_plan.pdf`. The PDF is a plan view of my driveway with three tables set up for a garage sale we are planning. 
 
 > [!IMPORTANT]
 > This project shall follow **Gall's Law**, which states, "Every complex system that works evolved from a simpler system that worked."
@@ -42,10 +42,10 @@ _How did Version 1 get tagged like this?_
 
 _What is the function of Version 1?_
 
-The function of Version 1 is to generate a file called `floorplan.pdf` at the command line.
+The function of Version 1 is to generate a file called `floor_plan.pdf` at the command line.
 
 > [!NOTE]
-> This is all Version 1 does: It makes a file called `floorplan.pdf`. When we say things like "Version 1 works", that means "Version 1 makes a file called `floorplan.pdf`."
+> This is all Version 1 does: It makes a file called `floor_plan.pdf`. When we say things like "Version 1 works", that means "Version 1 makes a file called `floor_plan.pdf`."
 
 _What does this look like in practice?_
 
@@ -54,14 +54,14 @@ _What does this look like in practice?_
 % cd floor_plan
 % make open
 # Lots of messages
-# The floorplan.pdf file opens
+# The floor_plan.pdf file opens
 ```
 
 We will call the present system Version 1. Version 1 has just four (4) parts. 
 
 1. This `README.md` file.
 2. A `LICENSE` file containing GNU Affero General Public License v3.0.
-3. The `floorplan.tex` file with Tikz drawing code.
+3. The `floor_plan.tex` file with Tikz drawing code.
 4. A `Makefile`.
 5. A `.gitignore` file to avoid tracking LaTeX cruft.
 
