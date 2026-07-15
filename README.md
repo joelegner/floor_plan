@@ -6,7 +6,7 @@ Welcome to `floor_plan`! I am Joe Legner. The point of this repository is to exp
 
 > GALL'S LAW: Every complex system that works evolved from a simpler system that worked.
 
-## Version 1--Implemented
+## Current Version 1 (Released)
 
 _What is the function of Version 1?_
 
@@ -49,6 +49,6 @@ At a command terminal:
 _When was Version 1 released?_
 Wednesday, July 15, 2026 at 10:55 AM.
 
-## Version 2--Planned
+## Future Version 2 (Planned)
 
 Version 2 is the next iteration. It may have five (5) or more parts. It must work.
