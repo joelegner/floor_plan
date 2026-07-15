@@ -29,6 +29,9 @@ We will call the present system Version 1. Version 1 has just four (4) parts.
 4. A `Makefile`.
 5. A `.gitignore` file to avoid tracking LaTeX cruft.
 
+> [!NOTE]
+> Useful information that users should know.
+
 _Where can I learn more about the license?_
 
 https://choosealicense.com/licenses/agpl-3.0/
