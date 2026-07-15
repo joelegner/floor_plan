@@ -24,7 +24,7 @@ _What does this look like in practice?_
 We will call the present system Version 1. Version 1 has just four (4) parts. 
 
 1. This `README.md` file.
-2. 5. A `LICENSE` file containing GNU Affero General Public License v3.0.
+2. A `LICENSE` file containing GNU Affero General Public License v3.0.
 3. The `floorplan.tex` file with Tikz drawing code.
 4. A `Makefile`.
 5. A `.gitignore` file to avoid tracking LaTeX cruft.
