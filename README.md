@@ -13,7 +13,7 @@ _What is the function of Version 1?_
 
 The function of Version 1 is to generate a file called `floorplan.pdf` at the command line.
 
-> [!IMPORTANT]
+> [!NOTE]
 > This is all Version 1 does: It makes a file called `floorplan.pdf`. When we say things like "Version 1 works", that means "Version 1 makes a file called `floorplan.pdf`."
 
 _What does this look like in practice?_
