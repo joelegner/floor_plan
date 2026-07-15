@@ -12,6 +12,9 @@ _What is the function of Version 1?_
 
 The function of Version 1 is to generate a file called `floorplan.pdf` at the command line.
 
+> [!IMPORTANT]
+> This is all Version 1 does: It makes a file called `floorplan.pdf`. When we say things like "Version 1 works", that means "Version 1 makes a file called `floorplan.pdf`."
+
 _What does this look like in practice?_
 
 ```bash
@@ -21,6 +24,7 @@ _What does this look like in practice?_
 # Lots of messages
 # The floorplan.pdf file opens
 ```
+
 We will call the present system Version 1. Version 1 has just four (4) parts. 
 
 1. This `README.md` file.
@@ -29,8 +33,8 @@ We will call the present system Version 1. Version 1 has just four (4) parts.
 4. A `Makefile`.
 5. A `.gitignore` file to avoid tracking LaTeX cruft.
 
-> [!NOTE]
-> Useful information that users should know.
+> [!TIP]
+> It is possible to give people nicely formatted tips. 
 
 _Where can I learn more about the license?_
 
@@ -58,5 +62,8 @@ _When was Version 1 released?_
 Wednesday, July 15, 2026 at 10:55 AM.
 
 ## Future Version 2 (Planned)
+
+> [!CAUTION]
+> Version 2 is not yet implemented.
 
 Version 2 is the next iteration. It may have five (5) or more parts. It must work.
