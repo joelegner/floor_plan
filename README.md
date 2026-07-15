@@ -6,9 +6,6 @@ Welcome to `floor_plan`! I am Joe Legner. The point of this repository is to exp
 
 > GALL'S LAW: Every complex system that works evolved from a simpler system that worked.
 
-This gives us the following functionality:
-
-
 ## Version 1--Implemented
 
 _What is the function of Version 1?_
@@ -20,12 +17,10 @@ _What does this look like in practice?_
 ```bash
 % git clone https://github.com/joelegner/floor_plan/
 % cd floor_plan
-% make
+% make open
 # Lots of messages
-% open floorplan.pdf
 # The floorplan.pdf file opens
 ```
-
 We will call the present system Version 1. Version 1 has just four (4) parts. 
 
 1. This `README.md` file.
@@ -48,14 +43,7 @@ _How do I run Version 1?_
 At a command terminal:
 
 ```bash
-% make
-```
-_How do I view the Version 1 PDF?_
-
-At a command terminal:
-
-```bash
-% open floorplan.pdf
+% make open
 ```
 
 _When was Version 1 released?_
