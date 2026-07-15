@@ -97,7 +97,12 @@ At a command terminal:
 
 Version 2 is the next iteration. It may have five (5) or more parts. It must work.
 
+_What counts as Version 2 "working"?_
+
+Generate the `floor_plan.tex` file from a new `floor_plan.pl` Prolog source file.
+
 _What are the goals for Version 2?_
 
-1. Fix the word "GARAGE" printing off the page.
-2. Move the North Arrow to some greener pasture.
+1. Update the `Makefile` to work with `floor_plan.pl`.
+2. Fix the word "GARAGE" printing off the page.
+3. Move the North Arrow to some greener pasture.
