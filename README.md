@@ -1,11 +1,15 @@
 # floor_plan
 
-> The purpose of this repository is to generate `floorplan.pdf` which is a plan view of my driveway before a garage sale.
-
-Welcome to `floor_plan`! I am Joe Legner. The point of this repository is to explore what happens when we follow this dictum to the greatest extent:
+Welcome to `floor_plan`! I am Joe Legner. This project is an experiment to see what happens when we start with a project that "works" and evolve it by following Gall's Law. The software is sort of incidental to this experiment. But it still needs a purpose to exist. The purpose of the software is to generate a file called `floorplan.pdf`. The PDF is a plan view of my driveway with three tables set up for a garage sale we are planning. 
 
 > [!IMPORTANT]
 > This project shall follow **Gall's Law**, which states, "Every complex system that works evolved from a simpler system that worked."
+
+## Version 0 (Superseded)
+
+Version 0 of the floor_plan project was a paper floor plan drawn by Joe Legner on 1/8-inch grid graph paper at a scale of 1/4"=1'-0". This has been superseded by Version 1. 
+
+Version 0 worked, and it became the working system to start the wheel of Gall's Law rolling. The next thing to be done was to write Version 1 on the computer. That's where we turn our attention next in this exciting `README.md` file. 
 
 ## Current Version 1 (Released)
 
