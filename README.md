@@ -9,6 +9,16 @@ Welcome to `floor_plan`! I am Joe Legner. The point of this repository is to exp
 
 ## Current Version 1 (Released)
 
+_How is Version 1 documented?_
+There is a tag called "Version 1".
+
+_How did Version 1 get tagged like this?_
+
+```bash
+% git tag -a v1.0 -m "Version 1"
+% git push origin --tags
+```
+
 _What is the function of Version 1?_
 
 The function of Version 1 is to generate a file called `floorplan.pdf` at the command line.
