@@ -40,14 +40,13 @@ _How do I use Version 2?_
 # The floor_plan.pdf file opens
 ```
 
-We will call the present system Version 2. Version 2 has six (6) parts, up from five (5) parts in Version 1. 
+We will call the present system Version 2. Version 2 has five (5) parts, same as Version 1. 
 
 1. This `README.md` file.
 2. A `LICENSE` file containing GNU Affero General Public License v3.0.
 3. The `floor_plan.pl` Prolog source file.
-4. The `floor_plan.tex` file with Tikz drawing code.
-5. A `Makefile`.
-6. A `.gitignore` file to avoid tracking LaTeX cruft.
+4. A `Makefile`.
+5. A `.gitignore` file to avoid tracking LaTeX cruft.
 
 > [!TIP]
 > It is possible to give people nicely formatted tips. 
@@ -74,7 +73,7 @@ At a command terminal:
 % make open
 ```
 
-## Current Version 1 (Released)
+## Previous Version 1 (Superseded)
 
 _When was Version 1 released?_
 
