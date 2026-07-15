@@ -51,16 +51,7 @@ We will call the present system Version 2. Version 2 has five (5) parts, same as
 4. A `Makefile`.
 5. A `.gitignore` file to avoid tracking LaTeX cruft.
 
-> [!TIP]
-> It is possible to give people nicely formatted tips. 
-
-_Where can I learn more about the license?_
-
-https://choosealicense.com/licenses/agpl-3.0/
-
-Version 1 works. 
-
-_How do I install Version 1?_
+_How do I install Version 2?_
 
 At a command terminal:
 
@@ -68,7 +59,7 @@ At a command terminal:
 git clone https://github.com/joelegner/floor_plan/
 cd floor_plan
 ```
-_How do I run Version 1?_
+_How do I run Version 2?_
 
 At a command terminal:
 
@@ -97,18 +88,7 @@ _What is the function of Version 1?_
 
 The function of Version 1 is to generate a file called `floor_plan.pdf` at the command line.
 
-> [!NOTE]
-> This is all Version 1 does: It makes a file called `floor_plan.pdf`. When we say things like "Version 1 works", that means "Version 1 makes a file called `floor_plan.pdf`."
-
-_What does this look like in practice?_
-
-```bash
-git clone https://github.com/joelegner/floor_plan/
-cd floor_plan
-make open
-# Lots of messages
-# The floor_plan.pdf file opens
-```
+_How many parts does the system have?_
 
 We will call the present system Version 1. Version 1 has five (5) parts, up from two (2) parts in Version 0.
 
@@ -118,30 +98,9 @@ We will call the present system Version 1. Version 1 has five (5) parts, up from
 4. A `Makefile`.
 5. A `.gitignore` file to avoid tracking LaTeX cruft.
 
-> [!TIP]
-> It is possible to give people nicely formatted tips. 
-
 _Where can I learn more about the license?_
 
 https://choosealicense.com/licenses/agpl-3.0/
-
-Version 1 works. 
-
-_How do I install Version 1?_
-
-At a command terminal:
-
-```bash
-git clone https://github.com/joelegner/floor_plan/
-cd floor_plan
-```
-_How do I run Version 1?_
-
-At a command terminal:
-
-```bash
-make open
-```
 
 ## Previous Version 0 (Superseded)
 
